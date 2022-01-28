@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I am Eric Chen (He/Him) 👋
 
+🤔 Checkout my website: [ericjyc.com](ericjyc.com)
+
+📫 How to reach me: mail@ericjyc.com
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ericchen1248&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericchen1248&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EricChen1248/EricChen1248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
