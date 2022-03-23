@@ -5,6 +5,8 @@
 📫 How to reach me: mail@ericjyc.com
 
 ## I am a recent graduate student from Boston University with a MS in CS.
+I am a Software Engineer at InterSystems Corporations, building tools for Healthcare and Finance industries to move into the digital age.
+
 I enjoy writing tools for myself, using mostly C# and Python, as well as setting up a home server to store family photos and documents.
 
 ## Experience
