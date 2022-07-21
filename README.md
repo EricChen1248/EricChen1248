@@ -1,6 +1,6 @@
 ### Hi there, I am Eric Chen (He/Him) 👋
 
-🤔 Checkout my website: [ericjyc.com](ericjyc.com)
+🤔 Checkout my website: [ericjyc.com](https://ericjyc.com)
 
 📫 How to reach me: mail@ericjyc.com
 
