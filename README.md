@@ -4,13 +4,14 @@
 
 📫 How to reach me: mail@ericjyc.com
 
-## I am a recent graduate student from Boston University with a MS in CS.
-I am a Software Engineer at InterSystems Corporations, building tools for Healthcare and Finance industries to move into the digital age.
+## What do I do
+I'm in DevOps/Platform Engineering at InterSystems Corporation, creating developer platforms and automation pipelines for building and testing products used in the Healthcare and Finance industries.
 
-I enjoy writing tools for myself, using mostly C# and Python, as well as setting up a home server to store family photos and documents.
+I enjoy writing tools for myself, using mostly TypeScript, Python, and C#, as well as setting up a home server to run an assortment of services for my family and I.
 
-## Experience
+## Previous Experiences
 * I worked as a Research Assistant at BU on a Secure Multiparty Computing Library, writing a full-stack end-to-end application for use as a client demo and internal experimentation platform. Check out our work [here](https://sites.bu.edu/casp/) and [here](https://www.bu.edu/hic/research/focused-research-programs/continuous-analysis-of-mobile-health-data-among-medically-vulnerable-populations/fall-focused-research-program-workshop-secure-analytics-on-mobile-health-data-streams/)
+* I worked at Google as an intern, working on developing the cost analysis pipeline for youtube service, enabling observability across the platform to aid in management decisions.
 
 
 ## GitHub Stats
